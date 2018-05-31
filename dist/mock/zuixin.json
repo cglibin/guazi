@@ -1,0 +1,83 @@
+[
+    {
+        "title": "雪佛兰爱唯欧 2011款 三厢 1.4L MT SE",
+        "pic": "https://image1.guazistatic.com/qn180115231354f96bdec37a0951edb3f30cd76727bb0d.jpg?imageView2/1/w/287/h/192/q/88",
+        "time": "2012",
+        "address": "成都",
+        "distance": "8.3万公里",
+        "final_price": "3.10",
+        "original_price": "5.60",
+        "mark": ["保卖车","超值"]
+    },
+    {
+        "title": "雪佛兰迈锐宝 2013款 2.0L 自动豪华版",
+        "pic": "https://image1.guazistatic.com/qn1801062056402715a4d0a5065c8a2a6f9974c1484565.jpg?imageView2/1/w/287/h/192/q/88",
+        "time": "2013",
+        "address": "昆明",
+        "distance": "6.5万公里",
+        "final_price": "9.2",
+        "original_price": "12.1",
+        "mark": ["保卖车","急售车"]
+    },
+    {
+        "title": "奇瑞风云2 2013款 两厢 1.5L 手动锐意版",
+        "pic": "https://image1.guazistatic.com/qn1801161057273c9d8f768729f163bc9bc2ea1b99cda5.jpg?imageView2/1/w/287/h/192/q/88",
+        "time": "2015",
+        "address": "福州",
+        "distance": "4.0万公里",
+        "final_price": "2.65",
+        "original_price": "3.45",
+        "mark": ["保卖车","超值"]
+    },
+    {
+        "title": "MG3 2013款 1.5L AMT精英版 ",
+        "pic": "https://image1.guazistatic.com/qn180113101610dcde8761dd762eb4ca439abac418874b.jpg?imageView2/1/w/287/h/192/q/88",
+        "time": "2014",
+        "address": "南京",
+        "distance": "1.0万公里",
+        "final_price": "4.20",
+        "original_price": "5.44",
+        "mark": ["保卖车","急售车"]
+    },
+    {
+        "title": "雪佛兰爱唯欧 2011款 三厢 1.4L MT SE",
+        "pic": "https://image1.guazistatic.com/qn180115231354f96bdec37a0951edb3f30cd76727bb0d.jpg?imageView2/1/w/287/h/192/q/88",
+        "time": "2012",
+        "address": "成都",
+        "distance": "8.3万公里",
+        "final_price": "3.10",
+        "original_price": "4.44",
+        "mark": ["保卖车","超值"]
+    },
+    {
+        "title": "大众桑塔纳 2013款 1.6L 自动风尚版",
+        "pic": "https://image1.guazistatic.com/qn18011214485049ad3e5de9426f760ee3efea465dd2f6.jpg?imageView2/1/w/287/h/192/q/88",
+        "time": "2014",
+        "address": "重庆",
+        "distance": "3.6万公里",
+        "final_price": "6.00",
+        "original_price": "7.67",
+        "mark": ["保卖车","急售车"]
+    },
+    {
+        "title": "大众POLO 2014款 1.6L 自动舒适版",
+        "pic": "https://image1.guazistatic.com/qn18010315381132f2616cbb739713e862c492715af66d.jpg?imageView2/1/w/287/h/192/q/88",
+        "time": "2015",
+        "address": "大连",
+        "distance": "4.78万公里",
+        "final_price": "6.65",
+        "original_price": "9.10",
+        "mark": ["保卖车","超值"]
+    },
+    {
+        "title": "雪佛兰景程 2010款 1.8 舒适版 AT",
+        "pic": "https://image1.guazistatic.com/qn180112113918dd1b30a552e14895ce867f58173cedb1.jpg?imageView2/1/w/287/h/192/q/88",
+        "time": "2010",
+        "address": "大连",
+        "distance": "5.15公里",
+        "finalprice": "3.63",
+        "original_price": "4.56",
+        "mark": ["保卖车","急售车"]
+    }
+    
+]

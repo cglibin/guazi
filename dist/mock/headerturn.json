@@ -1,0 +1,18 @@
+[
+    {
+        "url": "../source/headerturn/lb1.jpg",
+        "isDeepColor": false
+    },
+    {
+        "url": "../source/headerturn/lb2.jpg",
+        "isDeepColor": false
+    },
+    {
+        "url": "../source/headerturn/lb3.jpg",
+        "isDeepColor": true
+    },
+    {
+        "url": "../source/headerturn/lb4.jpg",
+        "isDeepColor": false
+    }
+]
